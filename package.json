@@ -1,7 +1,7 @@
 {
-  "name": "@civ-clone/base-city-unhappiness-civ1",
+  "name": "@civ-clone/base-city-yield-unhappiness",
   "version": "0.1.1",
-  "repository": "git@github.com:civ-clone/base-city-unhappiness-civ1.git",
+  "repository": "git@github.com:civ-clone/base-city-yield-unhappiness.git",
   "keywords": [
     "typescript",
     "civilization"
