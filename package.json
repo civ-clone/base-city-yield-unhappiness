@@ -1,8 +1,7 @@
 {
-  "name": "@civ-clone/base-city-happiness-civ1",
-  "version": "0.1.0",
-  "main": "index.js",
-  "repository": "git@github.com:civ-clone/base-city-happiness-civ1.git",
+  "name": "@civ-clone/base-city-unhappiness-civ1",
+  "version": "0.1.1",
+  "repository": "git@github.com:civ-clone/base-city-unhappiness-civ1.git",
   "keywords": [
     "typescript",
     "civilization"
